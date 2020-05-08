@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">API_Rest_Call</string>
+    <string name="app_name">ABM de Vehiculos</string>
+    <string name="brand">Marca</string>
+    <string name="model">Modelo</string>
+    <string name="loading">Cargando…</string>
+    <string name="create">Crear</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete">Eliminar</string>
+    <string name="edit">Editar</string>
 </resources>
